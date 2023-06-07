@@ -1,4 +1,14 @@
 // product slice here
+import { createSlice, PayloadAction } from "@reduxjs/toolkit";
+import { Product } from "../../types/type";
+
+type ProductState = {
+  favourites: Product[];
+};
+
+const initialState: ProductState = {
+  favourites: [],
+};
 
 const productList = [
   {

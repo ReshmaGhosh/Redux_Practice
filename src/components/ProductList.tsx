@@ -1,9 +1,10 @@
 import React from "react";
 import { useSelector } from "react-redux";
 import { Product } from "../types/type";
+import { RootState } from "../redux/store";
 
 export default function ProductList() {
-  const products = useSelector((state) => state.products.ProductList);
+  const products = useSelector((state: RootState) => state.product.productList);
 
   return (
     <div>

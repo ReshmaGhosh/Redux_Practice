@@ -1,4 +1,4 @@
-Deploy Link : redux-practice-k6wjxivma-reshma.vercel.app
+Deploy Link : https://vercel.com/reshma/redux-practice/DmbSzGeuQANtonNSrd57rGKBjzW1
 
 # Redux Toolkit Practice
 
@@ -17,4 +17,4 @@ Deploy Link : redux-practice-k6wjxivma-reshma.vercel.app
 
 add search logic
 
-Deploy Link : redux-practice-k6wjxivma-reshma.vercel.app
+Deploy Link : https://vercel.com/reshma/redux-practice/DmbSzGeuQANtonNSrd57rGKBjzW1

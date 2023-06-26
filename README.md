@@ -1,3 +1,5 @@
+Deploy Link : redux-practice-k6wjxivma-reshma.vercel.app
+
 # Redux Toolkit Practice
 
 ### How to run the project
@@ -14,3 +16,5 @@
 ### Extra Requirements
 
 add search logic
+
+Deploy Link : redux-practice-k6wjxivma-reshma.vercel.app
